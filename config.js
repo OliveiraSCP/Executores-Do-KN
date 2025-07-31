@@ -1,8 +1,8 @@
-exports.TOKEN = "BOT TOKEN HERE";
+exports.TOKEN = "MTQwMDM4NTgzMjU2ODc1NDI2OA.Gw0_kE.O_iHMt6PKCpV5UpfjScdXhtSlBNHU_On8zB0pgE";
 
 exports.DBL_API_KEY = "NONE";
 
-exports.PREFIX = "&";
+exports.PREFIX = "/";
 
 exports.GOOGLE_API_KEY = "AIzaSyDzKnUyDiDaZru7_zbAkPbIdqhhnjLvd8U";
 
